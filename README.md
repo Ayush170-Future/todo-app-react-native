@@ -8,7 +8,6 @@ This is a simple todo app built using React Native. It allows users to create, v
 - Mark tasks as completed.
 - View all tasks in a list format.
 - Pie Chart of percentage completed and pending tasks.
-- Delete tasks when no longer needed.
 
 ## State Management
 
